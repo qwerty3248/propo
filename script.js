@@ -1,6 +1,6 @@
 let sí=document. getElementById("sí");
 sí.addEventListener("click",function(e){
-	alert("Sabía que aceptarías😺😺");
+	alert("Sabía que no podrias😺😺");
 } );
 let no=document. getElementById("no");
 no.addEventListener("mousemove",function(e){
